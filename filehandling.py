@@ -1,0 +1,6 @@
+f=open("C:\\Users\\camel\\OneDrive\\Desktop\\python\\A.txt","r")
+print(f.readline())
+print(f.readlines())
+print("data read successfully")
+b=open("C:\\Users\\camel\\OneDrive\\Desktop\\python\\B.txt","x")
+print("B created")
